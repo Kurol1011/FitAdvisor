@@ -1,4 +1,15 @@
-streamlit
-openai
+fastapi
+uvicorn[standard]
+sqlalchemy[aio]
+alembic
+psycopg2-binary
+pydantic
 langchain
+openai
 faiss-cpu
+chromadb
+python-multipart
+httpx
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
